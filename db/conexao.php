@@ -1,8 +1,8 @@
 <?php
    
    $servername="aws.connect.psdb.cloud";     //"aws.connect.psdb.cloud";
-   $username="os9orjbotqfi9k1fne5d";       //"irs0wggsw028ysd9xjos";
-   $password="pscale_pw_3y2LcX57Dx19jYphW7Hhz3g7AkHF71yE6jUgqxp5jbM";     //"pscale_pw_YkqLc7KCTPHFIFaxcA0p3RKyhZpiY5UE1ZtxFbkLFpa";
+   $username="4cqm5sx8s5khps1z0yep";       //"irs0wggsw028ysd9xjos";
+   $password="pscale_pw_FqrxuIHVi6v3tT3YeiyStOBm588fxyKdD3IJD7AJjd7";     //"pscale_pw_YkqLc7KCTPHFIFaxcA0p3RKyhZpiY5UE1ZtxFbkLFpa";
    $database="donatio";
 
    
